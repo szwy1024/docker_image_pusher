@@ -2,4 +2,4 @@ alpine
 php:8.1-apache
 mysql:8.0
 mysql:5.7
-vulnerables/web-dvwa:latest
+vulnerables/web-dvwa
